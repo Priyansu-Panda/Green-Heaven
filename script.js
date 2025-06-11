@@ -124,38 +124,6 @@ document.addEventListener('DOMContentLoaded', function(){
     });
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Add floating particles effect
 function createFloatingParticle() {
     const particle = document.createElement('div');

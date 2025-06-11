@@ -1,0 +1,82 @@
+/* :root  */
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    /* background-color: black; */
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    color: var(--text-dark);
+    background-color: var(--warm-white);
+    overflow: hidden;
+}
+.navbar{
+    position: fixed;
+    top:0;
+    width:100%;
+    background: rgba(254,254,254,0.95);
+    z-index: 1000;
+    padding: 1rem 0;
+    transition: all 0.3s ease-in-out;
+    /* backdrop-filter: blur(10px); */
+}
+
+.navbar.scrolled{
+    background: rgba(254,254,254,0.95);
+    box-shadow: 0 2px 20px var(--shadow-light);
+}
+
+.nav-container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--primary-green);
+    text-decoration: none;
+    transition: transform 0.3s ease-in-out;
+}
+
+.logo:hover{
+        transform: scale(1.05);
+}
+
+.nav-menu{
+    display: flex;
+    list-style: none;
+    gap: 2rem;
+}
+
+.nav-link{
+    text-decoration: none;
+    color: var(--text-dark);
+    font-weight: 500;
+    position: relative;
+    transition: color 0.3s ease-in-out;
+}
+
+/* .nav-link::after{} */
+
+.nav-link:hover{
+    color: var(--primary-green);
+}
+
+.nav-link:hover::after{
+    width: 100%
+}
+
+.menu-toggle span{
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}

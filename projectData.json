@@ -1,0 +1,436 @@
+{
+  "projects": [
+    {
+      "projectName": "MY27",   
+      "startDate": "2024-12-01",
+      "endDate": "2025-06-30",
+      "progressStatus": "In Progress",
+      "progress": 40,
+      "components": [
+        {
+          "componentName": "Trunk Control",      
+          "startDate": "2025-01-01",
+          "endDate": "2025-03-01",
+          "progressStatus": "Completed",
+          "progress": 50,
+          "tasks": [
+            {
+              "taskName": "Trunk Access",
+              "startDate": "2024-12-10",
+              "endDate": "2025-01-13",
+              "progressStatus": "In Progress",
+              "progress": 54
+            },
+            {
+              "taskName": "Trunk Light",
+             "startDate": "2024-12-10",
+              "endDate": "2025-01-15",
+              "progressStatus": "Completed",
+              "progress": 50
+            },
+            {
+              "taskName": "Trunk Display on Cluster",
+              "startDate": "2024-12-14",
+              "endDate": "2025-02-26",
+              "progressStatus": "Completed",
+              "progress": 10
+            }
+          ]
+        },
+        {
+          "componentName": "In Vehicle Infotainment",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+            {
+              "taskName": "Wifi",
+              "startDate": "2025-01-01",
+              "endDate": "2025-02-01",
+              "progressStatus": "Completed",
+              "progress": 100
+            },
+            {
+              "taskName": "Bluetooth",
+              "startDate": "2025-02-02",
+              "endDate": "2025-04-01",
+              "progressStatus": "In Progress",
+              "progress": 50
+            }
+          ]
+        },
+        {
+          "componentName": "Adapt Postural Comfort",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "HVAC",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "V2X Vechile to Everything",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 90,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "WiFi Hotspot",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 90,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Smartphone Integration",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 20,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "NLP Voice Assistant",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 60,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "OTA Updates",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 60,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Cloud connectivity",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 80,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Adaptive Headlights",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 70,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Automatic High Beam",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 80,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "LED Daytime Running lights",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 50,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "LED turn signals",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 60,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Ambient lightling",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Fog lighting",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 80,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Switch on/off low beam",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 90,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Flash to pass",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 90,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Lock/Unlock car with key/FOB",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Open/close doors",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "check and warn traction battery level",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Wireless charging",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Customizable drive modes",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "start vehicle mobility",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        }
+      ]
+    },
+    {
+      "projectName": "MY28",
+      "startDate": "2024-12-01",
+      "endDate": "2025-06-30",
+      "progressStatus": "In Progress",
+      "progress": 40,
+      "components": [
+        {
+          "componentName": "Trunk Control",
+          "startDate": "2025-01-01",
+          "endDate": "2025-03-01",
+          "progressStatus": "Completed",
+          "progress": 100,
+          "tasks": [
+            {
+              "taskName": "Trunk Access",
+              "startDate": "2024-12-01",
+              "endDate": "2024-12-15",
+              "progressStatus": "Completed",
+              "progress": 100
+            },
+            {
+              "taskName": "Trunk Light",
+              "startDate": "2024-12-16",
+              "endDate": "2024-12-31",
+              "progressStatus": "Completed",
+              "progress": 100
+            },
+            {
+              "taskName": "Trunk Display on Cluster",
+              "startDate": "2024-11-18",
+              "endDate": "2024-12-31",
+              "progressStatus": "Completed",
+              "progress": 100
+            }
+          ]
+        },
+        {
+          "componentName": "LED turn signals",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 60,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Ambient lightling",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Fog lighting",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 80,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Switch on/off low beam",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 90,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Flash to pass",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 90,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Lock/Unlock car with key/FOB",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Open/close doors",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "check and warn traction battery level",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Wireless charging",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "Customizable drive modes",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        },
+        {
+          "componentName": "start vehicle mobility",
+          "startDate": "2025-01-01",
+          "endDate": "2025-05-01",
+          "progressStatus": "In Progress",
+          "progress": 40,
+          "tasks": [
+           
+          ]
+        }
+      ]
+    }
+   
+  ]
+}
